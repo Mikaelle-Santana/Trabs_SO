@@ -9,4 +9,4 @@ Os trabalhos exploram conceitos fundamentais da disciplina, como concorrência, 
 - **[Trabalho Prático 2 (TP2)](./tp2)**: Focado em paralelismo e concorrência aplicados a problemas práticos, como simulação de um servidor web e operações matemáticas intensivas (produto escalar e multiplicação matricial) visando análise de desempenho.
 
 Cada diretório contém seu próprio arquivo README com mais detalhes sobre as implementações e como executá-las.
-# Trabalhos_oc
+
